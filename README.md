@@ -2,18 +2,18 @@
 
 A responsive **Flipkart-inspired e-commerce frontend project** built for learning and UI/UX practice using **HTML, CSS and JavaScript**.
 
-> ⚠️ This is an independent educational project. It is not affiliated with or endorsed by Flipkart. Flipkart branding/assets are used only where they are already present in the source project; replace them with original assets before commercial use.
+> ⚠️ This is an independent educational project. It is not affiliated with or endorsed by Flipkart.
 
-## 🔗 Project
+## 🌐 Live Demo
 
-**GitHub Repository:**
-https://github.com/palleprashanthp4-dev/flipkart-clone-frontend
+🚀 **[View Live Demo](https://flipkart-clone-frontend-r878.vercel.app/)**
 
-**Source Project Folder:**
-https://github.com/palleprashanthp4-dev/flipkart-clone-frontend/tree/main/Flipkart-Clone-Project-main
+## 🔗 Project Links
 
-**Live Demo:**
-Add your Vercel deployment link here after deployment.
+- 🌐 **[Live Demo](https://flipkart-clone-frontend-r878.vercel.app/)**
+- 💻 **[GitHub Repository](https://github.com/palleprashanthp4-dev/flipkart-clone-frontend)**
+- 📂 **[Source Project Folder](https://github.com/palleprashanthp4-dev/flipkart-clone-frontend/tree/main/Flipkart-Clone-Project-main)**
+- 📄 **[README](https://github.com/palleprashanthp4-dev/flipkart-clone-frontend/blob/main/README.md)**
 
 ## ✨ Features
 
@@ -77,7 +77,7 @@ For the best development experience, use **VS Code + Live Server**.
 
 The website's `index.html` is inside the `Flipkart-Clone-Project-main` directory.
 
-When deploying to Vercel, set:
+For Vercel deployment, use:
 
 ```text
 Root Directory: Flipkart-Clone-Project-main
@@ -86,15 +86,12 @@ Build Command: Leave empty
 Output Directory: .
 ```
 
-Then deploy the project.
-
 ## 📸 Screenshots
 
-Add project screenshots here, for example:
-
-```markdown
-![Homepage](./Flipkart-Clone-Project-main/images/screenshot.png)
-```
+<img width="1470" alt="Screenshot 2023-04-07 at 9 46 16 PM" src="https://user-images.githubusercontent.com/108738197/230642491-f2477dfa-101d-4a6b-bb47-8c2a442065d6.png">
+<img width="1468" alt="Screenshot 2023-04-07 at 9 51 58 PM" src="https://user-images.githubusercontent.com/108738197/230642998-76fc94ed-c5e7-455f-9eaa-8ecc26fa3377.png">
+<img width="1470" alt="Screenshot 2023-04-07 at 9 47 00 PM" src="https://user-images.githubusercontent.com/108738197/230642516-89f0385e-25c4-4a5e-8ac7-265b91eca0bd.png">
+<img width="1470" alt="Screenshot 2023-04-07 at 9 47 39 PM" src="https://user-images.githubusercontent.com/108738197/230642535-0af522c6-e9f5-412e-8e04-2403f9628e60.png">
 
 ## 🎯 Purpose
 
@@ -113,7 +110,7 @@ This project is created for **frontend development practice**, especially:
 
 **Palle Prashanth**
 
-GitHub: https://github.com/palleprashanthp4-dev
+🔗 **[GitHub Profile](https://github.com/palleprashanthp4-dev)**
 
 ---
 
